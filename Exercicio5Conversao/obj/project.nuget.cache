@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8AWKS8VMhsAiAPp4KRoV4lqnph9ZiB4qs++VC5/bjmw1nkJYaH2TI1T61ch+FJWHx2UG/ysJaDRA5YMlVcTKQ==",
+  "success": true,
+  "projectFilePath": "C:\\_Trabalho Atual\\Execicio5Conversao\\Exercicio5Conversao\\Exercicio5Conversao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}

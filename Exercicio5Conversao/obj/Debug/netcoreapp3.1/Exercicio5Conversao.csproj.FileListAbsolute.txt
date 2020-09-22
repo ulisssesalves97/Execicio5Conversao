@@ -1,0 +1,9 @@
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.csprojAssemblyReference.cache
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.AssemblyInfoInputs.cache
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.AssemblyInfo.cs
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.RazorTargetAssemblyInfo.cache
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio5Conversao.StaticWebAssets.Manifest.cache
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio5Conversao.StaticWebAssets.xml
