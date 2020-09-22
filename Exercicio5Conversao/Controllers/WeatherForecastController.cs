@@ -21,7 +21,7 @@ namespace Exercicio5Conversao.Controllers
 		public WeatherForecastController(ILogger<WeatherForecastController> logger)
 		{
 			_logger = logger;
-		}
+		} 
 
 		[HttpGet]
 		public IEnumerable<WeatherForecast> Get()
