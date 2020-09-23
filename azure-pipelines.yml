@@ -19,14 +19,7 @@ steps:
     command: 'publish'
     publishWebProjects: true
 
-- task: VSTest@2
-  inputs:
-        testSelector: 'testAssemblies'
-        testAssemblyVer2: |
-          **\*test*.dll
-          !**\*TestAdapter.dll
-          !**\obj\**
-        searchFolder: '$(System.DefaultWorkingDirectory)'
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: 'Exercicio5Conversao/bin/Debug/netcoreapp3.1'
