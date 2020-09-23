@@ -18,9 +18,9 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
-    
-    - task: VSTest@2
-      inputs:
+
+- task: VSTest@2
+  inputs:
         testSelector: 'testAssemblies'
         testAssemblyVer2: |
           **\*test*.dll
