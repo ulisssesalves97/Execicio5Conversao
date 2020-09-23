@@ -17,3 +17,4 @@ C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.
 C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.dll
 C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.pdb
 C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.genruntimeconfig.cache
+C:\_Trabalho Atual\Execicio5Conversao\Exercicio5Conversao\obj\Debug\netcoreapp3.1\Exercicio5Conversao.csprojAssemblyReference.cache
