@@ -27,7 +27,7 @@ namespace Exercicio5Conversao
 
 		public static float FahrenToKelvin(float value)
 		{
-			return (value - 32f) * 0.555556f + 273f;
+			return ((value - 32f) / 1.8f) + 273.15f;
 		}
 
 		public static float KelvinToFahren(float value)

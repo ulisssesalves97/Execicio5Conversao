@@ -29,12 +29,12 @@ namespace Execicio5Conversao.Tests
         [Fact]
         public void ValidFahrenToKelvin()
         {
-            Assert.Equal(255.222208f, ConvertTemperature.FahrenToKelvin(0f));
+            Assert.Equal(273.15f, ConvertTemperature.FahrenToKelvin(32f));
         }
         [Fact]
         public void ValidKelvinToFahren()
         {
-            Assert.Equal(0f, ConvertTemperature.KelvinToFahren(255.222208f));
+            Assert.Equal(212f, ConvertTemperature.KelvinToFahren(373f));
         }
     }
 }
