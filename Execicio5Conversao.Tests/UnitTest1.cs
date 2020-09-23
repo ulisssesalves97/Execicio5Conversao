@@ -14,7 +14,7 @@ namespace Execicio5Conversao.Tests
         [Fact]
         public void ValidKelvinToCent()
         {
-            Assert.Equal(180f, ConvertTemperature.CentToKelvin(453f));
+            Assert.Equal(180f, ConvertTemperature.KelvinToCent(453f));
         }
     }
 }
