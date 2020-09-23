@@ -18,9 +18,8 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: true
-    configuration: 'Release'
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: 'bin/Release/netcoreapp3.1'
+    PathtoPublish: 'bin/Debug/netcoreapp3.1'
     ArtifactName: 'drop'
     publishLocation: 'Container'
