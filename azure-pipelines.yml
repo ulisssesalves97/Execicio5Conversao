@@ -20,6 +20,6 @@ steps:
     publishWebProjects: true
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: 'bin/Debug/netcoreapp3.1'
+    PathtoPublish: 'Exercicio5Conversao/bin/Debug/netcoreapp3.1'
     ArtifactName: 'drop'
     publishLocation: 'Container'
